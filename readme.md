@@ -3,7 +3,7 @@
 
 ## Installation
 ```git
-git clone https://www.github.com/maaz-319/audioplayer.git
+git clone https://github.com/Maaz-319/audioplayer.git
 ```
 ```git
 cd audioplayer
